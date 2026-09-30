@@ -1,6 +1,6 @@
 # emilioego.github.io
 
-Personal website for Emilio García Orellana, published with GitHub Pages.
+Personal website for Emilio García Orellana, published with GitHub Pages. 
 
 ## Local preview
 
