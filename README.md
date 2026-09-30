@@ -14,7 +14,7 @@ Then visit <http://localhost:8000>.
 
 ## Updating the profile
 
-Edit `index.html` to update the profile, experience, expertise areas, projects, and social links.
+Edit `index.html` to update the profile, career timeline, expertise, technologies, certifications, languages, projects, and social links.
 The profile portrait is stored in `assets/`. Styles live in `css/style.css`;
 the language switch, email menu, profile FAQ chat, and light/dark theme control are in `js/main.js`.
 Add or edit Spanish and English copy in the `translations` object in that file.
